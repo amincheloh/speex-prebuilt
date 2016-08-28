@@ -2,6 +2,6 @@
   "name": "speex-prebuilt",
   "version": "0.1.0",
   "description": "Node.js Speex codec",
-  "main": "/lib/speex.js",
+  "main": "./lib/speex.js",
   "engines": { "node" : ">=6.4.0" }
 }
